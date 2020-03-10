@@ -1,5 +1,5 @@
-img1 = imread('a1.jpg');
-img2 = imread('a2.jpg');
+img1 = imread('bean1.jpg');
+img2 = imread('bean2.jpg');
 
 figure, imshow(img1);
 figure, imshow(img2);
